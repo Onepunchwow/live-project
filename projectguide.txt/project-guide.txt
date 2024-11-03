@@ -14,8 +14,8 @@
             1. JSON-Server (mock api)
 
 ############## How to setup and run the project #############
-    1. Download React Project Source Code
-    2. Download Api Socurce Code
+    1. Download React Project Source Code - https://github.com/Onepunchwow/live-project/archive/refs/heads/main.zip
+    2. Download Api Socurce Code - https://github.com/Onepunchwow/api/archive/refs/heads/master.zip
 
 Note : Steps to setup the project
     1. download source code from above url
